@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\ÁrvoreBinária\bin\Debug\net7.0\ÁrvoreBinária.exe
+C:\Users\Pichau\Desktop\ÁrvoreBinária\bin\Debug\net7.0\ÁrvoreBinária.deps.json
+C:\Users\Pichau\Desktop\ÁrvoreBinária\bin\Debug\net7.0\ÁrvoreBinária.runtimeconfig.json
+C:\Users\Pichau\Desktop\ÁrvoreBinária\bin\Debug\net7.0\ÁrvoreBinária.dll
+C:\Users\Pichau\Desktop\ÁrvoreBinária\bin\Debug\net7.0\ÁrvoreBinária.pdb
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\ÁrvoreBinária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\ÁrvoreBinária.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\ÁrvoreBinária.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\ÁrvoreBinária.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\ÁrvoreBinária.dll
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\refint\ÁrvoreBinária.dll
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\ÁrvoreBinária.pdb
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\ÁrvoreBinária.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\ÁrvoreBinária\obj\Debug\net7.0\ref\ÁrvoreBinária.dll
